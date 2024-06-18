@@ -2,7 +2,7 @@
 
 ## Description
 
-I wanted to build a webpage to tell my Dad how awesome she is.
+I wanted to build a webpage to tell my Dad how awesome he is.
 
 ## Installation
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-I told him how awesome she is.
+I told him how awesome he is.
 
 ## Credits
 
